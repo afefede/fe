@@ -3,6 +3,12 @@ A beautiful responsive UX/UI pattern library and front-end framework for Black b
 
 ## Quick Start
 
+Make sure to install node package files
+```
+npm  install
+```
+
+Serve Angular files
 ```
 cd ~/fe-app
 ng serve --open
