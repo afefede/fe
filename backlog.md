@@ -12,6 +12,7 @@ A beautiful responsive UX/UI pattern library and front-end framework for Black b
 - Make components accessible or provide best practices alternative
 - Use YAML Integration to manage and save framework configurations
 - We need option to add older browser support.
+- Afefede should be viewed as an end-to-end platform that meets the needs a small to medium sized business.
 
 ## Backlog
 
@@ -22,11 +23,11 @@ A beautiful responsive UX/UI pattern library and front-end framework for Black b
 - As a Product Owner I need an easily recognizable Brand Identity system.
 - As a Product Owner I need
 
-### Business Owner
+### Business Owner Stories
 - As a Business Owner I need a straightforward way to understand benefits of Framework.
 - As a Business Owner I need downloadable brochure that I can print out.
-- As a Business Owner I need to understand what impact the services will have on budget.
-- As a Business Owner I need to have a clear path on timeframe and level of effort it takes to go to market from conception to launch.
+- As a Business Owner I need to understand what impact the services will have on my budget.
+- As a Business Owner I need to have a clear path on timeframe and level of effort it takes to go to market from concept to launch.
 
 ### Editor Stories
 - As a Editor I need to see examples of look-n-feel of basic framework globally shared items.
