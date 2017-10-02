@@ -2,3 +2,4 @@
 
 ## Design
 - [Simple Icons](https://github.com/simple-icons)
+- [Material Design Icons](https://materialdesignicons.com/)
