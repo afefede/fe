@@ -69,6 +69,7 @@ A beautiful responsive UX/UI pattern library and front-end framework for Black b
 
 ### Developer Stories
 - As a Developer I need to have a development, staging and production environments to test code.
+- As a Developer I need to setup Angular routes so each component lives on it's own page.
 - As a Developer I need to be able understand how the code works and what is needed to get started
 - As a Developer I need a documentation system.
 - As a Developer I need a well supported grid system to develop layouts.
